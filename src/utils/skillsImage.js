@@ -89,7 +89,7 @@ export const skillsImage = (skill) => {
             return docker;
         case 'illustrator':
             return illustrator;
-        case 'adobe xd':
+        case 'adobe':
             return adobeXd;
         case 'after effects':
             return afterEffects;
